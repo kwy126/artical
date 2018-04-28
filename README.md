@@ -10,6 +10,7 @@
 - [漫谈文件系统](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483840&idx=1&sn=3845446b81593984a8adbfb68f852061&chksm=fbd5832acca20a3c0372d122f0898dcc584ada3c244abc458efdb3f57c82100803a9b2a5d37b#rd)
 - [漫谈版本控制系统](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483834&idx=1&sn=6d38d34a1cd45221cd997f21e70af4f6&chksm=fbd58350cca20a46cef87bc6682edd694fcf69ae31a3069cfff2d2bf4a44d89e752248c3f81c#rd)
 - [漫谈Git和Github](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483859&idx=1&sn=5c7e7f1516787d276ace11bbaa032cdd&chksm=fbd58339cca20a2f918634c79b9671d8d3e7f0ef3bfa7d1151626d241599b106496e798baf13#rd)
+- [漫谈Web缓存架构](http://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=100000251&idx=1&sn=9cc9b3019ffa9137c2772fc76af39032&chksm=7bd583114ca20a07cd25a6c55d90918d64b4e6f6e4573dce278a94614517d7becfbde1a60076#rd) 
 
 ## 数据库
 - [数据库逻辑设计](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483771&idx=1&sn=bde60ae64046af093cc608c5e8e7003a&chksm=fbd58391cca20a8775c387a257ca59c557d50e5bfa2553b4d4697c349cc215da1eb1f3fe58b9#rd)
@@ -24,9 +25,15 @@
 - [UML](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483846&idx=1&sn=b47b0dd63bc886789280a5ae6c2c6881&chksm=fbd5832ccca20a3a34369b1bd81aeaca7c95b0f3337e6b4534254e6033ca0e42d01643a996cd#rd)
 - [面向过程设计 VS 面向对象设计](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483755&idx=1&sn=31e04d304b5d7248c00158a7e98d3f0a&chksm=fbd58381cca20a977aab5897604bdd9086a82e228068f65e50e45025fb104fd85fa6a5328602#rd)
 - [编写优雅代码的最佳实践](https://mp.weixin.qq.com/s/txMACyMPO_3GYH5q9HQQ_A)
+- [初识Java](http://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=100000247&idx=1&sn=30776f01945b1ef58be4f8c8f147f204&chksm=7bd5831d4ca20a0bdc4146582dc81bc71a35e1660084b43843bd32fdd620e71635e6dc241362#rd)
+- [面向对象的演进过程](http://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=100000242&idx=1&sn=4d743d0f17b947382ef1fb96e62b7c25&chksm=7bd583184ca20a0ed9bf175d4cf740ae2d40ee9a45f0fedf6392850d6a5f6887a41d5d468680#rd)
 
 
 ## 架构设计
+
+## 福利
+- [百度云2018最新限速破解软件](http://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=100000239&idx=1&sn=db7d7c4d8ed8e75151aa515f96aed7ae&chksm=7bd583054ca20a13166b47393e10e7cca48793854dec6f19f50a58f2dd633b1c5696f52c4c05#rd)
+- [全网最热Python3入门+进阶 更快上手实际开发](http://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=100000203&idx=1&sn=d4252e21a75aedbac10a197a087dee0c&chksm=7bd583214ca20a37ec2a0612d08a4a35afb564916aeca0170a697ebc06f4058b2eb7c148497a#rd)
 
 ## 其他技能
 - [正则表达式](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483772&idx=1&sn=1e89c9a6dda416929b6406f31374bf20&chksm=fbd58396cca20a80999bb300d2c3a478ddcbe575e41d7a27aa8120afae6d415335d32013f605#rd)
